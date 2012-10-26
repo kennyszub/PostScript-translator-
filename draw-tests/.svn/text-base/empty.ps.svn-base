@@ -1,0 +1,79 @@
+%!PS-Adobe-2.0
+30.0 2.0 102.0 0.0 360.0 arc
+1.0 setlinewidth
+0.9 0.2 1.0 setrgbcolor
+stroke
+30.0 3.0 103.0 0.0 360.0 arc
+1.0 setlinewidth
+0.2 0.05 0.3 setrgbcolor
+stroke
+30.0 4.0 104.0 0.0 360.0 arc
+1.0 setlinewidth
+0.2 0.03333333333333333 0.3 setrgbcolor
+stroke
+30.0 5.0 105.0 0.0 360.0 arc
+1.0 setlinewidth
+0.2 0.025 0.3 setrgbcolor
+stroke
+30.0 6.0 106.0 0.0 360.0 arc
+1.0 setlinewidth
+0.2 0.02 0.3 setrgbcolor
+stroke
+30.0 7.0 107.0 0.0 360.0 arc
+1.0 setlinewidth
+0.2 0.016666666666666666 0.3 setrgbcolor
+stroke
+30.0 8.0 108.0 0.0 360.0 arc
+1.0 setlinewidth
+0.2 0.014285714285714287 0.3 setrgbcolor
+stroke
+30.0 9.0 109.0 0.0 360.0 arc
+1.0 setlinewidth
+0.2 0.0125 0.3 setrgbcolor
+stroke
+30.0 10.0 110.0 0.0 360.0 arc
+1.0 setlinewidth
+0.2 0.011111111111111112 0.3 setrgbcolor
+stroke
+100.0 100.0 100.0 0.0 360.0 arc
+1.0 setlinewidth
+0.3 0.9 1.0 setrgbcolor
+stroke
+30.0 30.0 moveto
+50.0 30.0 lineto
+50.0 80.0 lineto
+30.0 80.0 lineto
+30.0 30.0 lineto
+30.0 setlinewidth
+0.2 1.0 1.0 setrgbcolor
+stroke
+157.753624230043 497.17880768033166 moveto
+256.23439953126376 514.5436254470247 lineto
+221.50476399787772 711.5051760494664 lineto
+123.02398869665691 694.1403582827733 lineto
+157.753624230043 497.17880768033166 lineto
+1.0 setlinewidth
+0.0 0.0 0.0 setrgbcolor
+stroke
+183.80085088008252 349.4576447285005 moveto
+331.5220138319137 375.50487137854003 lineto
+296.79237829852764 572.4664219809817 lineto
+149.07121534669648 546.4191953309421 lineto
+183.80085088008252 349.4576447285005 lineto
+1.0 setlinewidth
+0.0 0.0 1.0 setrgbcolor
+fill
+281.11595753452775 315.84559306791385 100.0 0.0 360.0 arc
+1.0 setlinewidth
+0.3 0.9 1.0 setrgbcolor
+stroke
+216.22319150690555 223.16911861358275 30.0 0.0 360.0 arc
+1.0 setlinewidth
+0.9 0.2 1.0 setrgbcolor
+fill
+206.37511397678347 221.43263683691347 moveto
+222.59830548368902 244.60175545049623 lineto
+1.0 setlinewidth
+0.9 0.2 1.0 setrgbcolor
+stroke
+showpage

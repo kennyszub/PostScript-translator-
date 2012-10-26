@@ -1,0 +1,67 @@
+%!PS-Adobe-2.0
+120.0 110.0 moveto
+320.0 110.0 lineto
+320.0 210.0 lineto
+120.0 210.0 lineto
+120.0 110.0 lineto
+1.0 setlinewidth
+0.0 0.3 0.4 setrgbcolor
+stroke
+50.0 10.0 20.0 0.0 360.0 arc
+1.0 setlinewidth
+0.0 0.3 0.4 setrgbcolor
+stroke
+230.0 33.0 60.0 0.0 360.0 arc
+1.0 setlinewidth
+0.0 0.3 0.4 setrgbcolor
+fill
+230.0 34.0 60.0 0.0 360.0 arc
+1.0 setlinewidth
+0.0 0.3 0.4 setrgbcolor
+fill
+230.0 35.0 60.0 0.0 360.0 arc
+1.0 setlinewidth
+0.0 0.3 0.4 setrgbcolor
+fill
+230.0 36.0 60.0 0.0 360.0 arc
+1.0 setlinewidth
+0.0 0.3 0.4 setrgbcolor
+fill
+230.0 37.0 60.0 0.0 360.0 arc
+1.0 setlinewidth
+0.0 0.3 0.4 setrgbcolor
+fill
+230.0 38.0 60.0 0.0 360.0 arc
+1.0 setlinewidth
+0.0 0.3 0.4 setrgbcolor
+fill
+230.0 39.0 60.0 0.0 360.0 arc
+1.0 setlinewidth
+0.0 0.3 0.4 setrgbcolor
+fill
+230.0 40.0 60.0 0.0 360.0 arc
+1.0 setlinewidth
+0.0 0.3 0.4 setrgbcolor
+fill
+460.0 80.0 120.0 0.0 360.0 arc
+1.0 setlinewidth
+0.0 0.3 0.4 setrgbcolor
+fill
+3.0 10.0 moveto
+30.0 40.0 lineto
+10.0 setlinewidth
+0.0 1.0 0.3 setrgbcolor
+stroke
+10.0 20.0 moveto
+50.0 20.0 lineto
+50.0 40.0 lineto
+10.0 40.0 lineto
+10.0 20.0 lineto
+10.0 setlinewidth
+0.0 1.0 0.3 setrgbcolor
+fill
+30.0 30.0 10.0 0.0 360.0 arc
+10.0 setlinewidth
+0.0 1.0 0.3 setrgbcolor
+fill
+showpage

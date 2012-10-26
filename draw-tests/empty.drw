@@ -1,0 +1,20 @@
+(:= r (rect 10 300 100 200))
+(color 0 0 1)
+(:= f (filledrect 10 150 150 200))
+(color .3 .9 1)
+(:= c (circ 100 100 100))
+(color .9 .2 1)
+(:= fc (filledcirc 20 20 30))
+(:= l (line 10 20 30 40))
+(scale fc (/ 3 2))
+
+(for I 2 10
+     (draw (circ 30 I (+ 100 I)))
+     (color .2 (/ .1 I) .3))
+
+(color .2 1  1)
+(draw c)
+(:= g (group r f c fc l))
+(linewidth 30)
+(draw (rect 30 30 20 50))
+(draw (move (rotate g 10) 200 200))

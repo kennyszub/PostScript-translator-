@@ -1,0 +1,71 @@
+Project 1: The CS61B Drawing System.
+
+The files in this directory form a skeleton that you can flesh out into a 
+full system.  The definition of your task, however, is to fulfill the project
+specification however you can.  Throw the skeleton away if you want, as long
+as the resulting program behaves correctly.  (But DON'T throw it away because
+you don't understand it---figure out our intent instead).
+
+
+Files:
+
+
+Makefile:      This simple Makefile does standard tasks such
+               as building the application, cleaning up unneeded files, and
+               running the JUnit tests.  Used as a configuration file 
+               by the 'gmake' program.
+
+PUBLIC-VERSION:
+               A file containing just the name of the current public release
+               version in the public/proj1/tags directory.  (Helpful when
+               trying to figure out what merges to do.)
+
+draw (subdirectory):  The package containing the drawing system.  Putting
+               all this in a package, besides avoiding those nagging messages
+               from Eclipse saying that you are naughty for putting things in
+               the default package, allows you to make public only those
+               things that need to be (i.e., not very much).
+
+    Makefile:  See Makefile, above.
+
+    Main.java: Contains the main method for the system.
+
+    Testing.java: 
+               The main program here runs all your JUnit tests.  Your tests
+               may be scattered over many classes, but this is a kind of
+               central index of all of them, and has a few useful methods 
+               for use in some tests.
+
+    Combination.java
+    Expr.java
+    ExprReader.java
+    Interpreter.java
+    Number.java
+    Numeral.java
+    Picture.java
+    Value.java:
+               SAMPLE source files, hinting at ONE POSSIBLE implementation
+               (object analysis) of the system.  An Interpreter executes
+               programs, which are represented as sequences of Commands.
+               One such Command is a Literal, which represents an appearance
+               a decimal numeral in a program.  Executing Commands
+               produces Values, which include Numbers and Pictures.  
+
+    Display.java:
+               A class that acts like a print file (such as System.out), but
+               that sends its output to a running Ghostscript process
+               (Ghostscript is a Postscript interpreter) so that it is 
+               displayed immediately on your screen.
+    Displayer.java:
+               This is a utility that is NOT part of the project.  It contains
+               a main program (run with 'java draw.Displayer') that simply
+	       sends all input it receives from the standard input to
+               Ghostscript (using the Display class).  
+
+draw-tests (subdirectory): 
+               Directory of test files and standard outputs for comparison.
+	       Used by gmake check.
+
+test-draw:     A script used to run regression tests of the complete draw
+               program.  The tests in draw-tests provide the tests that this
+               script runs.  Used by gmake check.

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/cs61b/!svn/ver/13785/cs61b-ek/trunk/proj1
+END
+PUBLIC-VERSION
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/cs61b/!svn/ver/7601/cs61b-ek/trunk/proj1/PUBLIC-VERSION
+END
+test-draw
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/cs61b/!svn/ver/7601/cs61b-ek/trunk/proj1/test-draw
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/cs61b/!svn/ver/7601/cs61b-ek/trunk/proj1/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/cs61b/!svn/ver/7601/cs61b-ek/trunk/proj1/README
+END
